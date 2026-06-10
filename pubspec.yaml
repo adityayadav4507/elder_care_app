@@ -8,8 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tts: ^3.8.3
-  vibration: ^1.8.3
+  flutter_tts: ^4.2.5
+  vibration: ^3.1.8
   shared_preferences: ^2.2.2
   percent_indicator: ^4.2.3
   intl: ^0.18.1
